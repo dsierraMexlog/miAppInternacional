@@ -25,6 +25,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     [_iShareButton setTitle:[NSString stringForKeuy:@"share"] forState:UIControlStateNormal];
     self.screenName = @"mainMenu";
+    
+    //comentarios jk
 }
 
 - (void)didReceiveMemoryWarning
