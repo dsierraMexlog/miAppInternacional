@@ -27,6 +27,7 @@
     self.screenName = @"mainMenu";
     
     //comentarios jk
+    //comentarios daniel
 }
 
 - (void)didReceiveMemoryWarning
